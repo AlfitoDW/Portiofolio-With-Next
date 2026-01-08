@@ -1,0 +1,13 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="60" cy="60" r="56" stroke="currentColor" stroke-width="4"></circle>
+
+  <!-- Code Brackets -->
+  <path d="M42 40 L30 60 L42 80" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M78 40 L90 60 L78 80" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <!-- Initial Letter -->
+  <text x="60" y="70" text-anchor="middle" font-size="36" font-weight="700" font-family="monospace" fill="currentColor">
+    A
+  </text>
+</svg>
